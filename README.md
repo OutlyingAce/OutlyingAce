@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OutlyingAce
+- 👋 Hi, I’m @Siddhant Regmi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java/Python
 - 💞️ I’m looking to collaborate on nothing, dont bother me.
