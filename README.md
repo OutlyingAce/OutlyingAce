@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddhant Regmi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Java/Python
-- 💞️ I’m looking to collaborate on nothing, dont bother me.
+- 💞️ I’m not looking to collaborate, dont bother me.
 - 📫 How to reach me: Discord-outlyingace
 
 <!---
